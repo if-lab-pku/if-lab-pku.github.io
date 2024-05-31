@@ -11,54 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+University of Pittsburgh, Pittsburgh PA, USA
+- Ph.D., Computer Engineering, 2012∼2016
+- M.S., Electrical Engineering, 2010∼2012
+- Adviser: Prof. Yiran Chen (currently at Duke University)
 
-Work experience
+Northeastern University, Shenyang, China
+- Bachelor, Automation, 2006∼2010
+
+
+Professional Experiences
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- Peking University (Beijing, China) Since Dec. 2023  
+  *Tenure-Track Associate Professor*
+- George Mason University (Fairfax VA, USA) Jan. 2023∼Sept. 2023  
+  *Associate Professor*
+- George Mason University (Fairfax VA, USA) Sep. 2016∼Dec. 2022  
+  *Tenure-Track Assistant Professor*
+- Caritas Institute of Higher Education (Hong Kong) Jul. 2017∼Aug. 2017  
+  *Visiting Scholar*
+- City University of Hong Kong (Hong Kong) Jun. 2015∼Aug. 2015  
+  *Visiting Scholar*
+- Microsoft Research Asia (Beijing, China.) Jun. 2014∼Sep. 2014  
+  *Research Intern*
+- Samsung Research and Development (Dallas TX, USA) Jul. 2013∼Nov. 2013  
+  *Research Intern*
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
   
-Talks
+Service
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+> Coming Soon...

@@ -1,0 +1,27 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item" style="display: flex; margin-top: 4px;">
+  <div>
+    {% if post.photo %}
+    <img src="/images/{{post.photo}}" width="200px"/>
+    {% else %}
+    <img src="/images/ProfileDefault.png" width="200px"/>
+    {% endif %}
+  </div>
+  <div style="margin-left: 10px;">
+    <strong>{{ post.title }}</strong>
+    {{ post.content }}
+  </div>
+</div>

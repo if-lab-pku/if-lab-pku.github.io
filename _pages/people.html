@@ -1,0 +1,30 @@
+---
+layout: archive
+title: "People"
+permalink: /people/
+author_profile: false
+---
+
+{% include base_path %}
+
+
+<h2>PI</h2>
+{% for post in site.people %}
+  {% if post.role == "boss"%}
+  {% include custom-peoplecard.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Graduates</h2>
+{% for post in site.people %}
+  {% if post.role == "phd" %}
+  {% include custom-peoplecard.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Alumni</h2>
+{% for post in site.people %}
+  {% if post.role == "alumni" %}
+  {% include custom-peoplecard.html %}
+  {% endif %}
+{% endfor %}
