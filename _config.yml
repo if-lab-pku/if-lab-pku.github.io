@@ -12,9 +12,9 @@ title                    : "IF-Lab"
 title_separator          : "-"
 name                     : &name "IF-Lab"
 description              : &description "Prof. Xiang Chen's Lab rebuilt @ PKU"
-url                      : https://xc-pku.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://if-lab-pku.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "if-lab-pku/xc-pku.github.io"
+repository               : "if-lab-pku/if-lab-pku.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
