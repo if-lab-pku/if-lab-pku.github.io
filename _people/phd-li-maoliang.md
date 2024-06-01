@@ -4,5 +4,5 @@ title: "Maoliang Li"
 role: phd
 collection: people
 ---
-- B.S. in Computer Science
+- B.S. in Computer Science  
   Northwestern Polytechnical University

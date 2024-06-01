@@ -12,7 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item" style="display: flex; margin-top: 4px;">
+<div class="{{ include.type | default: "list" }}__item" style="display: flex; margin-top: 2rem;">
   <div>
     {% if post.photo %}
     <img src="/images/{{post.photo}}" width="200px"/>
@@ -20,7 +20,7 @@
     <img src="/images/ProfileDefault.png" width="200px"/>
     {% endif %}
   </div>
-  <div style="margin-left: 10px;">
+  <div style="margin-left: 2rem;">
     <strong>{{ post.title }}</strong>
     {{ post.content }}
   </div>

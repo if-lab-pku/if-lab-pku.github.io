@@ -64,5 +64,5 @@ Awards and Honors
 	The 20<sup>th</sup> Design Automation and Test in Europe Conference  
 	“Attention-based Dynamic Optimization for Neural Network Runtime Efficiency”
 - ***Best Paper Award Nomination --- ICCAD*** (2016)  
-	The 35$<sup>th</sup>$ International Conference on Computer-Aided Design  
+	The 35<sup>th</sup> International Conference on Computer-Aided Design  
 	“Scope: Quality Retaining Display Rendering Workload Scaling based on User-Smartphone Distance”

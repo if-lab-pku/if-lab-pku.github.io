@@ -5,5 +5,5 @@ role: phd
 collection: people
 ---
 - Co-advise with ???
-- B.S. in Statistics
+- B.S. in Statistics  
   University of Science and Technology of China
