@@ -68,7 +68,6 @@ def main(file: str):
         pub = re.sub(r"\$\s*\^\\dagger\s*\$", "<sup>†</sup>", pub)
         pub = re.sub(r"\$\s*\^\\circ\s*\$", "<sup>◦</sup>", pub)
         pub = re.sub(r"\$\s*\^\\ast\s*\$", "<sup>*</sup>", pub)
-        pub = re.sub(r"\$\s*\^\\ast\s*\$", "<sup>*</sup>", pub)
         pub = re.sub(r"\$\s*\\sim\s*\$", "~", pub)
         buffer = ""
         for shit in matcher(pub):

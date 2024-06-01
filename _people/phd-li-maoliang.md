@@ -4,5 +4,5 @@ title: "Maoliang Li"
 role: phd
 collection: people
 ---
-- 2020-2024 Northwestern Polytechnical University, Bachelor Computer Science
-- 2024-Present Peking University, Graduate Student
+- B.S. in Computer Science
+  Northwestern Polytechnical University

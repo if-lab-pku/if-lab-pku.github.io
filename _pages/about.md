@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-**Introduction**
-
 *Associate Professor of Computer Science*
 
 Xiang Chen received his Ph.D. degree with the major of computer engineering in 2016 from the University of Pittsburgh, under the guidance of Dr. Yiran Chen. After that, Dr. Chen joined the George Mason University and founded the Intelligence Fusion Lab. His research works focus on mobile computing system, high-performance systems, and artificial intelligence. He has published more than 60 papers, and received the Best Paper Award in MLSys 2023, DATE 2017, and several other competition awards. He has also led multiple research projects funded by NSF, AFRL, Comcast, and Microsoft, and received the NSF CAREER Award in 2022. In 2023, Dr. Chen joined Peking University, Computer Science School.
 
-**Research Interests**
+His <u>research interests</u> include:
 - Computing Systems Design Automation (DES)
   - Hardware Software Co-Design and Co-Optimization
   - Specialized AI System and Architecture Design
@@ -22,16 +20,49 @@ Xiang Chen received his Ph.D. degree with the major of computer engineering in 2
   - Deep Learning Algorithms, Systems, and Middleware Designs
   - Trustworthy AI and Reliable AI Systems
 
-Publications
+WE ARE HIRING
 ===
 
-Selected Publications
----
+We are looking for Graduate Researchers in topics:
+1. Mobile Computing: Deep Learning, Distributed Computing, Mobile System Development;
+2. Mobile Graphic: GPU Programming, CUDA Architecture, Mobile Rendering, VR/AR and other related topics.
+Preferred abilities: Python, C++, Java, C Programming, Android/Linux Development, GPU Programming, Technical Writing.
 
-Recent Publications
----
+
+Selected Recent Publications
+===
+See Full List [HERE](/publications)
+
+- <strong>[ICML '24]</strong> <sup>†</sup> <em>C. Xu, F. Yu, Z. Xu, N. Inkawhich, and X. Chen</em>. “Out-of-Distribution Detection via Deep Multi-Comprehension Ensemble,” <em>in Proceedings of the International Conference on Machine Learning</em>, to appear, 2024.  
+- <strong>[ICASSP '24]</strong> <sup>*</sup> <em>P. Xu, Y. Wang, X. Chen, and Z. Tian</em>. “Communication-Efficient Decentralized Dynamic Kernel Learning,” <em>in Proceedings of the International Conference on Acoustics, Speech, and Signal Processing</em>,  pp. 7135~7139, 2024.  
+- <strong>[ASP-DAC '24]</strong> <sup>†</sup> <em>C. Xu, F. Yu, Z. Xu, C. Liu, J. Xiong, and X. Chen</em>. “QuadraNet: Improving High-Order Neural Interaction Efficiency with Hardware-Aware Quadratic Neural Networks,” <em>in Proceedings of the Asia and South Pacific Design Automation Conference</em>, pp. 19~25, 2024.  
+- <strong>[ICML '23]</strong> <em>J. Zhang, A. Li, M. Tang, J. Sun, X. Chen, F. Zhang, C. Chen, Y. Chen, and H. Li</em>. “Fed-CBS: A Heterogeneity-Aware Client Sampling Mechanism for Federated Learning via Class-Imbalance Reduction,” <em>in Proceedings of the International Conference on Machine Learning</em>, pp. 41354~41381, 2023.  
+- <strong>[DAC '23]</strong> <sup>†</sup> <em>Y. Yu, F. Yu, C. Liu, X. Sheng, and X. Chen</em>. “EagleRec: Edge-Scale Recommendation System Acceleration with Inter-Stage Parallelism Optimization on GPUs,” <em>in Proceedings of the Design Automation Conference</em>, pp. 1~6, 2023.  
+- <strong>[IEEE-TCAD '24]</strong> <sup>*</sup> <em>F. Yu, Z. Xu, L. Shangguan, D. Wang, D. Stamoulis, R. Madhok, N. Karianakis, A. Li, C. Liu, Y. Chen, and X. Chen</em>. “Rethinking Latency-Aware DNN Design With GPU Tail Effect Analysis,” <em>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</em>, May 2024.  
+- <strong>[IEEE-TCCN '24]</strong> <sup>*</sup> <em>W. Zhang, Y. Wang, X. Chen, L. Liu, and Z. Tian</em>. “Collaborative Learning based Spectrum Sensing under Partial Observations,” <em>IEEE Transactions on Cognitive Communications and Networking</em>, Apr. 2024.  
+- <strong>[IEEE-TNNLS '23]</strong> <sup>*</sup> <em>P. Xu, Y. Wang, X. Chen, and Z. Tian</em>. “QC-ODKLA: Quantized and Communication-Censored Online Decentralized Kernel Learning via Linearized ADMM,” <em>IEEE Transactions on Neural Networks and Learning Systems</em>, Sep. 2023.
+
+
 
 Awards and Honors
 ===
-
-> Coming Soon...
+- ***Best Paper Award --- MLSys*** (2022)  
+  The 5<sup>th</sup> Conference on Machine Learning and Systems  
+  “QuadraLib: A Performant Quadratic Neural Network Library for Architecture Optimization and Design Exploration”
+- ***Best Paper Award --- DATE*** (2017)  
+  The 17<sup>th</sup> Design Automation and Test in Europe Conference  
+  “MoDNN: Local Distributed Mobile Computing System for Deep Neural Network”
+- ***Best Poster Award --- MLSys-CrossFL*** (2022)  
+	The 5<sup>th</sup> Conference on Machine Learning and Systems (MLSys) Workshop on Cross Community Federated Learning, 2022.
+- ***Best Poster Award --- ACM-SIGDA-SRF*** (2015)  
+	ACM Special Interest Group on Design Automation (SIGDA) Student Research Forum (SRF) Competition, associated with  
+  The 20<sup>th</sup> Asia and South Pacific Design Automation Conference (ASP-DAC), 2015.
+- ***Best Paper Award Nomination --- ASP-DAC*** (2024)  
+	The 29<sup>th</sup> Asia and South Pacific Design Automation Conference  
+  “QuadraNet: Improving High-Order Neural Interaction Efficiency with Hardware-Aware Quadratic Neural Networks”
+- ***Best Paper Award Nomination --- DATE*** (2020)  
+	The 20<sup>th</sup> Design Automation and Test in Europe Conference  
+	“Attention-based Dynamic Optimization for Neural Network Runtime Efficiency”
+- ***Best Paper Award Nomination --- ICCAD*** (2016)  
+	The 35$<sup>th</sup>$ International Conference on Computer-Aided Design  
+	“Scope: Quality Retaining Display Rendering Workload Scaling based on User-Smartphone Distance”

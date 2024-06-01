@@ -59,7 +59,48 @@ Publications
 
 See [Full List Here](/publications)
 
-  
-Service
+
+Awards and Honors
+===
+**Best Paper Awards and Nominations**
+- **Best Paper Award --- MLSys** (2022)  
+  The 5<sup>th</sup> Conference on Machine Learning and Systems  
+  “QuadraLib: A Performant Quadratic Neural Network Library for Architecture Optimization and Design Exploration”
+- **Best Paper Award --- DATE** (2017)  
+  The 17<sup>th</sup> Design Automation and Test in Europe Conference  
+  “MoDNN: Local Distributed Mobile Computing System for Deep Neural Network”
+- ***Best Poster Award --- MLSys-CrossFL*** (2022)  
+	The 5<sup>th</sup> Conference on Machine Learning and Systems (MLSys) Workshop on Cross Community Federated Learning, 2022.
+- ***Best Poster Award --- ACM-SIGDA-SRF*** (2015)  
+	ACM Special Interest Group on Design Automation (SIGDA) Student Research Forum (SRF) Competition, associated with  
+  The 20<sup>th</sup> Asia and South Pacific Design Automation Conference (ASP-DAC), 2015.
+- ***Best Paper Award Nomination --- ASP-DAC*** (2024)  
+	The 29<sup>th</sup> Asia and South Pacific Design Automation Conference  
+  “QuadraNet: Improving High-Order Neural Interaction Efficiency with Hardware-Aware Quadratic Neural Networks”
+- ***Best Paper Award Nomination --- DATE*** (2020)  
+	The 20<sup>th</sup> Design Automation and Test in Europe Conference  
+	“Attention-based Dynamic Optimization for Neural Network Runtime Efficiency”
+- ***Best Paper Award Nomination --- ICCAD*** (2016)  
+	The 35$<sup>th</sup>$ International Conference on Computer-Aided Design  
+	“Scope: Quality Retaining Display Rendering Workload Scaling based on User-Smartphone Distance”
+
+**Competition Awards**
+- ***Winner Award --- IEEE Services Hackathon*** (2020)  
+	“Federated Learning System for Transportation Mode Prediction based on Personal Mobility,”  
+	Hackathon Competition collocated with the IEEE World Congress on Services.
+- ***Second Prize --- Big Idea Competition*** (2014)  
+	“Invisible Shield,” Randall Family Big Idea Start-up Competition, Pittsburgh PA.
+- ***Third Prize --- ACM-SIGDA-SRF*** (2012)  
+	ACM Special Interest Group on Design Automation (SIGDA), Student Research Forum (SRF) Competition, associated with  
+	The 49<sup>th</sup> Design Automation Conference (DAC).
+
+**Other Awards and Recognitions**
+- ***National Science Foundation CAREER Award*** (2022)  
+	“Adapt, Learn, Collaborate — Closing the Pervasive Edge AI Loop with Liquid Intelligence”
+- ***Microsoft Excellence Award*** (2015)  
+	Star of Tomorrow Research Internship Program (1\% of 500)
+
+
+Professional Services
 ======
 > Coming Soon...
