@@ -23,11 +23,9 @@ His <u>research interests</u> include:
 WE ARE HIRING
 ===
 
-We are looking for Graduate Researchers in topics:
-1. Mobile Computing: Deep Learning, Distributed Computing, Mobile System Development;
-2. Mobile Graphic: GPU Programming, CUDA Architecture, Mobile Rendering, VR/AR and other related topics.
-Preferred abilities: Python, C++, Java, C Programming, Android/Linux Development, GPU Programming, Technical Writing.
+We are looking for self-motivated graduate students and undergraduate interns to work on **Machine Learning and System** research, including efficient AI computing, hardware architechture, mobile systems, and distributed machine learning.
 
+We prefer students with hands-on system building skills (e.g. C++/CUDA/Python programming, hardware design, etc.) or mathematics background.
 
 Selected Recent Publications
 ===
