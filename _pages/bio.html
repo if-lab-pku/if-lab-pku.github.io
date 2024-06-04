@@ -1,0 +1,23 @@
+{% include base_path %}
+
+
+<div class="bio_lang_switches">
+  <button id="bio_default" class="bio_lang_switch" onclick="lang_switch(event, 'bio_en')"> EN </button>
+  <button class="bio_lang_switch" onclick="lang_switch(event, 'bio_zh')"> 中文 </button>
+</div>
+
+<div id="bio_zh" class="bio_content">
+  {% for bio in site.pages %}
+  {% if bio.name == "bio_zh.md" %}
+  {{ bio.content | markdownify }}
+  {% endif %}
+  {% endfor %}
+</div>
+
+<div id="bio_en" class="bio_content">
+  {% for bio in site.pages %}
+  {% if bio.name == "bio_en.md" %}
+  {{ bio.content | markdownify}}
+  {% endif %}
+  {% endfor %}
+</div>

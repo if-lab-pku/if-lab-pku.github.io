@@ -2,3 +2,22 @@
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
+<script>
+  function lang_switch(e, lang) {
+    tabcontents = document.getElementsByClassName("bio_content");
+    for (let i = 0; i < tabcontents.length; i++) {
+      tabcontents[i].style.display = "none";
+    }
+
+    // Get all elements with class="tablinks" and remove the class "active"
+    tablinks = document.getElementsByClassName("bio_lang_switch");
+    for (let i = 0; i < tablinks.length; i++) {
+      tablinks[i].classList.remove("bio_lang_switch_active")
+    }
+
+    // Show the current tab, and add an "active" class to the button that opened the tab
+    document.getElementById(lang).style.display = "block";
+    e.currentTarget.classList.add("bio_lang_switch_active");
+  }
+  document.getElementById("bio_default").click();
+</script>
