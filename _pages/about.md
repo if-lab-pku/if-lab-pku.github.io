@@ -14,7 +14,10 @@ redirect_from:
 WE ARE HIRING
 ===
 
-We are looking for self-motivated graduate students and undergraduate interns to work on **Machine Learning and System** research, including efficient AI computing, hardware architechture, mobile systems, and distributed machine learning.
+We are looking for self-motivated students to work on **Machine Learning System**, including efficient AI computing, domain specific architecture, mobile systems, and distributed machine learning.
+
+We now have *openings* for **PhD (to start in Fall 2026)** and **undergraduate interns**.  
+If you are interested in our research, please contact Prof. Chen via mail.
 
 We prefer students with hands-on system building skills (e.g. C++/CUDA/Python programming, hardware design, etc.) or mathematics background.
 
