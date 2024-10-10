@@ -4,6 +4,6 @@ photo: "Portrait_MaoliangLi.jpg"
 role: phd
 collection: people
 ---
-- To be started in 2024 Fall
-- B.S. in Computer Science  
+- Started in 2024 Fall
+- B.Eng. in Computer Science  
   Northwestern Polytechnical University
