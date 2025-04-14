@@ -1,6 +1,6 @@
 ---
 title: "Jiayu Chen"
-photo: "Portrait_Default.png"
+photo: "Portrait_JiayuChen.png"
 role: phd
 collection: people
 ---
