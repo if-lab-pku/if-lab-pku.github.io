@@ -14,12 +14,21 @@ redirect_from:
 WE ARE HIRING
 ===
 
-We are looking for self-motivated students to work on **Machine Learning System**, including efficient AI computing, domain specific architecture, mobile systems, and distributed machine learning.
+We are looking for self-motivated students to work on **Machine Learning System** or *AI Infra*, including efficient AI computing, domain specific architecture, mobile systems, and distributed machine learning.
 
 We now have *openings* for **PhD (to start in Fall 2027)** and **undergraduate/graduate interns**.  
-If you are interested in our research, please contact Prof. Chen via mail as soon as possible.
+If you are interested in our research, please contact Prof. Chen via mail **AS SOON AS POSSIBLE** .
 
-We prefer students with hands-on system building skills (e.g. C++/CUDA/Python programming, hardware design, etc.) or mathematics background.
+We prefer students with hands-on system building skills (e.g. C++/CUDA/Python programming, hardware design, mobile development etc.) or mathematics background.
+
+Our recent research topics include:
+- Efficient and distributed inference of
+  - Diffusion Language Models
+  - Mixture-of-Experts LLMs
+  - Video Generation Models
+- Cloud-edge Collaboration and Heterogeneous Collaboration for multimodal generation.
+- On-device deployment of LLM-based applications.
+- AI Infra for Embodied AI.
 
 ---
 

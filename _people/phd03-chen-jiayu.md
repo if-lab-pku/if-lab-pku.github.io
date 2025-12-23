@@ -4,6 +4,6 @@ photo: "Portrait_JiayuChen.jpg"
 role: phd
 collection: people
 ---
-- To be started in 2025 Fall
-- B.Eng in Software Engineering(To be)  
+- Started in 2025 Fall
+- B.Eng in Software Engineering
   University of Electronic Science and Technology of China
