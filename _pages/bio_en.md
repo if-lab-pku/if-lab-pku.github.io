@@ -12,4 +12,5 @@ His <u>research interests</u> include:
   - Edge and Mobile Computing
 - Artificial Intelligence (AI)
   - Deep Learning Algorithms, Systems, and Middleware Designs
-  - Trustworthy AI and Reliable AI Systems
+  - Multimodal Large Language Models and Generative Models
+  - Efficient AI Infrastructure 
