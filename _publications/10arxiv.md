@@ -2,7 +2,13 @@
 title: "Archived Papers"
 collection: publications
 ---
-
+- <strong>[arxiv '26]</strong> <sup>†</sup> <em>Z. Zheng, Z. Mao, S. Tian, M. Li, J. Chen, X. Sun, Z. Zhang, X. Liu, D. Cao, H. Mei, X. Chen</em>. “HeiSD: Hybrid Speculative Decoding for Embodied Vision-Language-Action Models with Kinematic Awareness” <em>arXiv:2603.17573</em>, March 2026. 
+- <strong>[arxiv '26]</strong> <sup>†</sup> <em>Z. Zheng, S. Tian, H. Cao, C. Li, J. Chen, M. Li, X. Sun, H. Zou, G. Luo, X. Chen</em>. “RAPID: Redundancy-Aware and Compatibility-Optimal Edge-Cloud Partitioned Inference for Diverse VLA models” <em>arXiv:2603.07949</em>, March 2026. 
+- <strong>[arxiv '26]</strong> <sup>†</sup> <em>Z. Zheng, H. Cao, S. Tian, J. Chen, M. Li, X. Sun, H. Zou, Z. Zhang, X. Liu, D. Cao, H. Mei, X. Chen</em>. “DyQ-VLA: Temporal-Dynamic-Aware Quantization for Embodied Vision-Language-Action Models” <em>arXiv:2603.07904</em>, March 2026. 
+- <strong>[arxiv '26]</strong> <sup>†</sup> <em>Z. Zheng, Z. Mao, X. Zhou, J. Chen, M. Li, X. Sun, H. Zou, Z. Zhang, X. Liu, D. Cao, H. Mei, X. Chen</em>. “VLN-Cache: Enabling Token Caching for VLN Models with Visual/Semantic Dynamics Awareness” <em>arXiv:2603.07080</em>, March 2026. 
+- <strong>[arxiv '26]</strong> <sup>†</sup> <em>X. Sun, M. Li, Z. Zheng, J. Chen, H. Xu, Y. Liang, X. Chen</em>. “STaRR:Spatial-Temporal Token-Dynamics-Aware Responsive Remasking for Diffusion Language Models” <em>arXiv:2601.04205</em>, January 2026. 
+- <strong>[arxiv '25]</strong> <sup>†</sup> <em>Z. Zheng, Z. Wang, X. Cui, M. Li, J. Chen, A. Li, X. Chen</em>. “FedHQ: Hybrid Runtime Quantization for Federated Learning” <em>arXiv:2505.11982</em>, May 2025. 
+- <strong>[arxiv '24]</strong> <sup>†</sup> <em>Z. Zheng, Y. Li, J. Chen, P. Zhou, X. Chen, Y. Liu</em>. “Threshold Neuron: A Brain-inspired Artificial Neuron for Efficient On-device Inference” <em>arXiv:2412.13902</em>, December 2024. 
 - <strong>[arXiv '23]</strong> <sup>†</sup> <em>M. Zhang, F. Yu, Y. Yu, M. Zhang, A. Li, and X. Chen</em>. “FedHC: A Scalable Federated Learning Framework for Heterogeneous and Resource-Constrained Clients,” <em>arXiv:2305.15668</em>, May 2023.  
 - <strong>[arXiv '23]</strong> <sup>†</sup> <em>Y. Yu, F. Yu, M. Zhang, D. Wang, T. Soyata, C. Liu, and X. Chen</em>. “GACER: Granularity-Aware ConcurrEncy Regulation for Multi-Tenant Deep Learning,” <em>arXiv:2304.11745</em>, Apr. 2023.  
 - <strong>[arXiv '22]</strong> <sup>†</sup> <em>F Yu, D Wang, L Shangguan, M Zhang, C Liu, and X Chen</em>. “A Survey of Multi-Tenant Deep Learning Inference on GPU,” <em>arXiv:2203.09040</em>, Mar. 2022.  
