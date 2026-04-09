@@ -16,18 +16,21 @@ WE ARE HIRING
 
 We are looking for self-motivated students to work on **Machine Learning System** or *AI Infra*, including efficient AI computing, domain specific architecture, mobile systems, and distributed machine learning.
 
-We now have *openings* for **PhD (to start in Fall 2027)** and **undergraduate/graduate interns**.  
+We now have *openings* for **PhD (to start in Fall 2027)** and **undergraduate/graduate interns**.
+- We **RECOMMEND** that students applying for PhD complete an internship 1 year to 3 months in advance (online / on-site).
+- Undergraduate interns/RA interested in our research are always WELCOME.
+
 If you are interested in our research, please contact Prof. Chen via mail **AS SOON AS POSSIBLE** .
 
 We prefer students with hands-on system building skills (e.g. C++/CUDA/Python programming, hardware design, mobile development etc.) or mathematics background.
 
 Our recent research topics include:
+- Efficient On-Device/Mobile/Edge LLMs and Agent Applications.
+- Cloud-edge Collaboration and Heterogeneous Computing for Multimodal Generation.
 - Efficient and distributed inference of
-  - Diffusion Language Models
-  - Mixture-of-Experts LLMs
   - Video Generation Models
-- Cloud-edge Collaboration and Heterogeneous Collaboration for multimodal generation.
-- On-device deployment of LLM-based applications.
+  - Mixture-of-Experts LLMs
+  - Diffusion Language Models
 - AI Infra for Embodied AI.
 
 ---
