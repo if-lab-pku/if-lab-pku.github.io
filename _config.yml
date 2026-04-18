@@ -12,7 +12,7 @@ title                    : "IF-Lab"
 title_separator          : "-"
 name                     : &name "IF-Lab"
 description              : &description "Prof. Xiang Chen's Lab rebuilt @ PKU"
-url                      : https://if-lab-pku.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://if-lab-pku.github.io/if-lab-pku.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "IFLAB-PKU/if-lab-pku.github.io"
 
