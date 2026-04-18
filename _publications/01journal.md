@@ -2,7 +2,9 @@
 title: "Journal Articles"
 collection: publications
 ---
-- <strong>[IEEE-TCAD '24]</strong> <sup>*</sup> <em>F. Yu, Z. Xu, L. Shangguan, D. Wang, D. Stamoulis, R. Madhok, N. Karianakis, A. Li, C. Liu, Y. Chen, and X. Chen</em>. “Rethinking Latency-Aware DNN Design With GPU Tail Effect Analysis,” <em>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</em>, May 2024.  
+- <strong>[IEEE-TCAD '26]</strong> <sup>†</sup> <em>Y. Yu, Z. Xu, F. Yu, C. Liu, and X. Chen</em>. “HST-MoE: Hierarchical Soft-training for Multi-Expert Federated Learning,” <em>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</em>, March 2026.  
+- <strong>[IEEE-TCAD '25]</strong> <sup>†</sup> <em>Y. Yu, F. Yu, Z. Xu, D. Wang, M. Zhang, A. Li, C. Liu, Z. Tian, and X. Chen</em>. “FedMT: Multi-Task Federated Learning with Competitive GPU Resource Sharing,” <em>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</em>, August 2025.  
+- <strong>[IEEE-TCAD '24]</strong> <sup>†</sup> <em>F. Yu, Z. Xu, L. Shangguan, D. Wang, D. Stamoulis, R. Madhok, N. Karianakis, A. Li, C. Liu, Y. Chen, and X. Chen</em>. “Rethinking Latency-Aware DNN Design With GPU Tail Effect Analysis,” <em>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</em>, May 2024.  
 - <strong>[IEEE-TCCN '24]</strong> <sup>*</sup> <em>W. Zhang, Y. Wang, X. Chen, L. Liu, and Z. Tian</em>. “Collaborative Learning based Spectrum Sensing under Partial Observations,” <em>IEEE Transactions on Cognitive Communications and Networking</em>, Apr. 2024.  
 - <strong>[IEEE-TNNLS '23]</strong> <sup>*</sup> <em>P. Xu, Y. Wang, X. Chen, and Z. Tian</em>. “QC-ODKLA: Quantized and Communication-Censored Online Decentralized Kernel Learning via Linearized ADMM,” <em>IEEE Transactions on Neural Networks and Learning Systems</em>, Sep. 2023.  
 - <strong>[IEEE-TC '22]</strong> <sup>†</sup> <em>Z. Xu, F. Yu, J. Xiong, and X. Chen</em>. “HeliosX: Heterogeneity-Aware Federated Learning for Dynamic Edge Collaboration Management,” <em>IEEE Transactions on Computers</em>, to appear.  
