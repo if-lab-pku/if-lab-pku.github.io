@@ -16,8 +16,9 @@ WE ARE HIRING
 
 We are looking for self-motivated students to work on **Machine Learning System** or *AI Infra*, including efficient AI computing, domain specific architecture, mobile systems, and distributed machine learning.
 
-We now have *openings* for **PhD (to start in Fall 2027)** and **undergraduate/graduate interns**.  
-If you are interested in our research, please contact Prof. Chen via mail **AS SOON AS POSSIBLE** .
+We now have *openings* for **PhD (to start in Fall 2027)** and **undergraduate/graduate interns**.
+- We **RECOMMEND** that students applying for PhD complete an internship 1 year to 3 months in advance (online / on-site).
+- Undergraduate interns/RA interested in our research are always WELCOME.
 
 We prefer students with hands-on system building skills (e.g. C++/CUDA/Python programming, hardware design, mobile development etc.) or mathematics background.
 
